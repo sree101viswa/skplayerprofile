@@ -1,0 +1,27 @@
+.head1{
+    background-color: aqua;
+    width: 1280px;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+}
+.head2{
+    background-color: rgb(146, 145, 161);
+    width: 25%;
+    height: 700px;
+    margin-top: 40px;
+}
+.head3{
+    background-color: rgb(130, 26, 55);
+    width: 945px;
+    height: 540px;
+    margin-left: 330px;
+    margin-top: -19px;
+    padding-top: 50%;
+}
+.footer{
+    background-color: rgb(13, 137, 87);
+    width: 1280px;
+    height: 50px;
+    margin-top: 710px;
+}
